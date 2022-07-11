@@ -12,7 +12,7 @@ $ npm install add-zero-ts --save
 ## Usage
 
 ```javascript
-import { addZero }from 'add-zero';
+import { addZero } from 'add-zero';
 addZero(5); // 05
 addZero(10); // 10
 addZero(-5); // -05

@@ -2,8 +2,8 @@
   "name": "add-zero-ts",
   "version": "0.1.0",
   "description": "Add a leading zero to a number",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "build/lib/index.js",
+  "types": "build/lib/index.d.ts",
   "files": ["build/lib/*"
   ],
   "scripts": {
